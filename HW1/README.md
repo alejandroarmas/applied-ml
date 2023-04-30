@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alejandroarmas/applied-ml/blob/main/HW1/EEC189_HW1.ipynb)
+
 # Linear Regression
 
 This repository contains code for optimizing a single-variable regression model using the least-squares and gradient descent algorithms. Additionally, there is code to evaluate the coefficient of determination and many helper functions to create, and load synthetic and real data. 
