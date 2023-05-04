@@ -5,3 +5,5 @@ This is the repository for my code associated with the EEC-189G applied machine 
 ## Table of Contents
 
 [Homework 1: Linear Regression](/HW1)
+
+[Homework 2: Logistic Regression/Regularization/Decision Trees](/HW2)
